@@ -22,10 +22,6 @@
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/learning-tf)
 + [代码仓库](https://github.com/apachecn/learning-tf-zh)
 
-## 贡献指南
-
-本教程中的代码缺少输出，希望大家能运行代码并补上输出。
-
 ## 赞助我
 
 ![](img/qr_alipay.png)
